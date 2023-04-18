@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Abhishek
 
-<!--
-**Abhishek5212/Abhishek5212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science/Machine Learning
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
