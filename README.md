@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Abhishek</h1>
-<h3 align="center">Working in Data Science(ML/DL)</h3>
+<h3 align="center">Student</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on: Machine Learning<br>👯 I’m looking to collaborate on: Data Science<br>🤝 I’m looking for help with: DS/ML<br>🌱 I’m currently learning: DS/ML/DL<br>💬 Ask me about: ML, C++, Java<br>⚡ Fun fact: I'm not a nerd..
